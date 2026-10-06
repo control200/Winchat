@@ -27,8 +27,6 @@
 WinChat/
 ├── WinChatServer/
 │   ├── main.cpp
-│   ├── ChatServer.cpp
-│   ├── ChatServer.h
 │   ├── Database.cpp
 │   ├── Database.h
 │   ├── Config.cpp
