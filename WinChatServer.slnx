@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WinChatClient/WinChatClient.vcxproj" Id="5dba7502-f390-4151-95c5-b1e6dc705cdb" />
+  <Project Path="WinChatServer/WinChatServer.vcxproj" Id="fa0631fe-93da-4f2d-9f1d-6b6185b2bd53" />
+</Solution>
